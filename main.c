@@ -10,4 +10,9 @@ int main() {
 printf("Result in MASTER branch: %d\n", a - b);
     return 0;
 }
+<<<<<<< HEAD
 // Master comment
+=======
+// Comment 1
+// Comment 2
+>>>>>>> test

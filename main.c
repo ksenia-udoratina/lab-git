@@ -13,10 +13,7 @@ printf("Result in MASTER branch: %d\n", a - b);
 // Master comment
 // Comment 1
 // Comment 2
->>>>>>> test
 // Change 1
 // Change 2
-<<<<<<< HEAD
 // Client feature
-=======
 // Server feature

@@ -18,3 +18,4 @@ printf("Result in MASTER branch: %d\n", a - b);
 >>>>>>> test
 // Change 1
 // Change 2
+// Server feature

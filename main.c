@@ -1,5 +1,11 @@
 #include <stdio.h>
+
 int main() {
-printf("Hello, world!\n");
-return 0;
+    int a, b;
+    printf("Enter the first number: ");
+    scanf("%d", &a);
+    printf("Enter the second number: ");
+    scanf("%d", &b);
+    printf("You entered %d and %d\n", a, b);
+    return 0;
 }
